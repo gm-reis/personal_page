@@ -19,7 +19,7 @@ body {
     width: 100vw;
     color: var(--color2);
     background-color: var(--color3);
-    background-image: url('../../img/bg-picture.png');
+    background-image: url('../../assets/img/bg-picture.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 60%;
